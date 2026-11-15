@@ -35,19 +35,7 @@ Displays the percentage distribution:
 - Daniel Mathews has the highest completed project budget.
 - Priya Nair accounts for 34% of the displayed distribution.
 - High Risk projects have a higher total budget than Low Risk projects.
-- The dashboard provides a visual overview of project budget allocation and risk categories.
- 
-## Dashboard Preview
-
-![Human Capital Projects Dashboard](dashboard-preview.png)
-
-## Project Files
-
-- [Excel Workbook](HUMAN%20CAPITAL%20PROJECTS%202023.xlsx)
-- [Dashboard Screenshot](dashboard-preview.png)
-- [Dataset](human_capital_dataset.xlsx)
-
-
+- The dashboard provides a visual overview of project budget allocation and risk categories.                                                                               
 ## Project Purpose
 The objective of this project is to demonstrate practical Excel data analysis, visualization, and dashboard development skills.
 
