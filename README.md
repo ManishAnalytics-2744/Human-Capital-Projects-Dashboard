@@ -1,5 +1,5 @@
 
-# Human Capital Projects 2023 – Dashboard
+# Human Capital Projects 2023 –  Excel Dashboard
 
 ## Project Overview
 This project presents an interactive Microsoft Excel dashboard designed to analyze Human Capital Projects for 2023.
